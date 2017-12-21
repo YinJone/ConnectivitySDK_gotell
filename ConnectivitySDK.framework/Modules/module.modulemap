@@ -1,0 +1,6 @@
+framework module ConnectivitySDK {
+  umbrella header "ConnectivitySDK.h"
+
+  export *
+  module * { export * }
+}
